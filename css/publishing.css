@@ -20,8 +20,7 @@ main{
     width: calc((100% - 40px) /3); 
 }
 .publishing_middle_sc{
-    padding-left: 20px;
-    padding-right: 20px;
+    gap : 20px;
 }
 .art_img_sc{
     position: relative;
@@ -119,6 +118,7 @@ main{
     .art_img_sc img{
         width: 100%;
     }
+
 
 
 }
